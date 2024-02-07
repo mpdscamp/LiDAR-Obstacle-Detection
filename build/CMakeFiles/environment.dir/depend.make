@@ -6,7 +6,7 @@ CMakeFiles/environment.dir/src/environment.cpp.o: ../src/processPointClouds.cpp
 CMakeFiles/environment.dir/src/environment.cpp.o: ../src/processPointClouds.h
 CMakeFiles/environment.dir/src/environment.cpp.o: ../src/render/box.h
 CMakeFiles/environment.dir/src/environment.cpp.o: ../src/render/render.h
-CMakeFiles/environment.dir/src/environment.cpp.o: ../src/sensors/lidar.h
+CMakeFiles/environment.dir/src/environment.cpp.o: ../src/utils/kdtree.h
 CMakeFiles/environment.dir/src/environment.cpp.o: /usr/include/eigen3/Eigen/Cholesky
 CMakeFiles/environment.dir/src/environment.cpp.o: /usr/include/eigen3/Eigen/Core
 CMakeFiles/environment.dir/src/environment.cpp.o: /usr/include/eigen3/Eigen/Dense

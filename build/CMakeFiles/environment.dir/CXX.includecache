@@ -6,21 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/environment.cpp
-sensors/lidar.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/sensors/lidar.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/environment.cpp
 render/render.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/render.h
 processPointClouds.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/processPointClouds.h
+utils/kdtree.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/utils/kdtree.h
 processPointClouds.cpp
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/processPointClouds.cpp
+unordered_set
+-
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/processPointClouds.cpp
 processPointClouds.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/processPointClouds.h
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -50,31 +52,21 @@ ctime
 chrono
 -
 render/box.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/box.h
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/box.h
 Eigen/Geometry
 -
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/box.h
 iostream
 -
-vector
--
-string
--
 
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/sensors/lidar.h
-../render/render.h
-/home/mpdscamp/Documents/SFND_Lidar_Obstacle_Detection/src/render/render.h
-ctime
--
-chrono
--
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/utils/kdtree.h
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
