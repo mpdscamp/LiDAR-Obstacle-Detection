@@ -58,6 +58,10 @@ render/box.h
 Eigen/Geometry
 -
 
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/render.cpp
+render.h
+/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/render.h
+
 /home/mpdscamp/Documents/LiDAR_Obstacle_Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -

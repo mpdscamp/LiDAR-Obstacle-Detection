@@ -1,6 +1,3 @@
-/* \author Aaron Brown */
-// Quiz on implementing kd tree
-
 // Structure to represent node of kd tree
 struct Node
 {
