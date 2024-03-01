@@ -1,3 +1,0 @@
-/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/build/CMakeFiles/rebuild_cache.dir
-/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/build/CMakeFiles/edit_cache.dir
-/home/mpdscamp/Documents/LiDAR_Obstacle_Detection/build/CMakeFiles/environment.dir
